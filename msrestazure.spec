@@ -4,7 +4,7 @@
 #
 Name     : msrestazure
 Version  : 0.6.1
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/16/5b/fcd41fec16a8e6c6bea245132aef35f148fc549401c7f82ad59e57eacdd1/msrestazure-0.6.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/16/5b/fcd41fec16a8e6c6bea245132aef35f148fc549401c7f82ad59e57eacdd1/msrestazure-0.6.1.tar.gz
 Summary  : AutoRest swagger generator Python client runtime. Azure-specific module.
